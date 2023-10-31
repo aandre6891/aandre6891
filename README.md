@@ -5,3 +5,6 @@
 - 👯 I’m looking to collaborate on new projects as a freelancer or to work full-time for a company.
 - 📫 How to reach me: ruggieri6891@gmail.com - https://www.linkedin.com/in/ruggieriandrea/ - +447857940884
 - ⚡ A special project of mine: Take a look at my interactive resume on https://www.yivro.com/user/andre6891/
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mkb93&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mkb93&langs_count=5&theme=tokyonight)]()
