@@ -6,5 +6,5 @@
 - 📫 How to reach me: ruggieri6891@gmail.com - https://www.linkedin.com/in/ruggieriandrea/ - +447857940884
 - ⚡ A special project of mine: Take a look at my interactive resume on https://www.yivro.com/user/andre6891/
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mkb93&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mkb93&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aandre6891&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aandre6891&langs_count=5&theme=tokyonight)]()
